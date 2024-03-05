@@ -1,0 +1,14 @@
+.table td, .table th{
+    vertical-align: inherit;
+    position: relative;
+}
+.control_buttons {
+    text-align: center;
+}
+.control_buttons a:not(:last-child){
+    margin-right: 5px;
+}
+.add{
+    margin-bottom: 10px;
+    width: 100%;
+}
